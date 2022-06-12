@@ -6,7 +6,7 @@ I have created this application named watchen  using React with typescript , mui
 - Connect wallet with Metamask & Wallet Connect  
 - Dashboard with all the nfts
 - Exact implementation of the given UI/UX in the Figma file
-- Reverse resolve ENS means If the user has END it will show that else It will show wallet address
+- Reverse resolve ENS means If the user has ENS it will show that else It will show wallet address
 - Cross platform
 
   
